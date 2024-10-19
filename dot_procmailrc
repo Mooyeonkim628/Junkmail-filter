@@ -59,8 +59,8 @@ myFolder
 
 ## Recipe_4:
 ##
-## This is one of the recipes in your instructor's spam
-## filter. If your drug related spam does not originate from
+## 
+## If your drug related spam does not originate from
 ## Purdue, this recipe will kick in.  
 ##
 ## IMPORTANT: Since spammers fake their headers, a spam
@@ -84,7 +84,7 @@ myFolder
 
 ## Recipe_5:
 ##
-## This is another recipe from your instructor's spam filter
+## This recipe will kick mails from russia
 ##
 :0 HB
 * charset="koi8-r"
